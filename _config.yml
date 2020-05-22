@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "MrDev"
-title_right   : "space" # default: ""
-description   : "..."
+title_right   : "Space" # default: ""
+description   : "Welcome to my blog. Blog is about exploration and modeling domains, process and systems."
 keywords      : "programming, EventStorming, EventModeling, Exploration, Modeling, Events, EventSourcing, EventStore"
 url           : https://krzysztofowsiany.github.io/mrdev # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
+  name     : "Krzysztof Owsiany"
 
 plugins:
   - jekyll-sitemap
