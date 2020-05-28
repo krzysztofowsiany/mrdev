@@ -3,14 +3,24 @@ layout: post
 title: "Event is a Fact, but Fact is not a Event"
 description: "What is a Fact and Event"
 comments: true
+published: false
 keywords: "mrdev, blog, english, en, event, fact, events, facts"
 ---
 
-## Initial post
+Les's start with facts. How to understood fact. 
 
-Hello everyone. This blog is created because I want practice writing in english. 
+*This is some kind of truth. Off course if we don't manipulate facts.*
 
-I'm programmer, trainer, public speaker. My short love is Event Storming and Event Modeling.
-That's mean i will been writing about that.
+I we will see a past. The history is filled with many facts. Some are more important other aren't.
+But the fact always have some strong and important information. 
 
-That's it. Maybe I will write more. But for now I don't now what...
+If we know the facts? We can tell a story, stories.
+That same fact can be core of many stories.
+Fact is an information about something was happened.
+That is a truth.
+
+And when we say something was happened is equal to event. Event in the past.
+
+Can I say now Event = Fact? I think is a true.
+
+But I can't say that Fact is an Event?
