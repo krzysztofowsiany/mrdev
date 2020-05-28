@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Initial post"
-description: "Hello. This is my first post on blog."
+title: "Event is a Fact, but Fact is not a Event"
+description: "What is a Fact and Event"
 comments: true
-keywords: "mrdev, blog, english, en, initial"
+keywords: "mrdev, blog, english, en, event, fact, events, facts"
 ---
 
 ## Initial post
