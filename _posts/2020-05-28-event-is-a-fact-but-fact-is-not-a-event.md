@@ -3,7 +3,7 @@ layout: post
 title: "Event is a Fact, but Fact is not a Event"
 description: "What is a Fact and Event"
 comments: true
-published: false
+published: true
 keywords: "mrdev, blog, english, en, event, fact, events, facts"
 ---
 
