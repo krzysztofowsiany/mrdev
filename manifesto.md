@@ -4,8 +4,9 @@ title: Manifesto
 permalink: /manifesto/
 ---
 
-That's will be my manifesto
+That will be my manifesto
 
 Mission
+
 
 Goal
