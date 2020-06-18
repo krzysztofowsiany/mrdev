@@ -1,14 +1,14 @@
 # Site settings
-title_left    : "MrDev"
-title_right   : "Space" # default: ""
-description   : "Welcome to my blog. Blog is about exploration and modeling domains, process and systems."
+title_left    : "Events"
+title_right   : "Land" # default: ""
+description   : "Welcome to my blog about Events. I think the concept of event in information systems is very interest. That's why I want write about facts and connected techniques."
 keywords      : "programming, EventStorming, EventModeling, Exploration, Modeling, Events, EventSourcing, EventStore"
-url           : https://krzysztofowsiany.github.io/mrdev # site url
+url           : https://eventsland.net # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
-twitter_username  : ""
+twitter_username  : "k_owsiany"
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
 postshare_enabled : false

@@ -1,13 +1,16 @@
 ---
 layout: post
-title: "Initial post"
-description: "Hello. This is my first post on blog."
+title: "Event is a Fact. But Fact isn't a Event"
+description: "This post is about events. Events are powerful small concept to have information."
 comments: true
-published: true
+published: false
 keywords: "mrdev, blog, english, en, initial"
 ---
 
-## Initial post
+When we talk about fact. We know that is a true. Fact was happen and that is it.
+
+
+## 
 
 Hello everyone. This blog is created because I want practice writing in english. 
 
