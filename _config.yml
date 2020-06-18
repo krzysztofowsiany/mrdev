@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "Events"
 title_right   : "Land" # default: ""
-description   : "Welcome to my blog about Events. I think the concept of event in information systems is very interest. That's why I want write about facts and connected techniques."
+description   : "Welcome to my blog about Events. I think the concept of event in information systems is very interest. That's why I want to write about facts and connected techniques."
 keywords      : "programming, EventStorming, EventModeling, Exploration, Modeling, Events, EventSourcing, EventStore"
 url           : https://eventsland.net # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
