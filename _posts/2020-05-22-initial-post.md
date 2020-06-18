@@ -7,8 +7,6 @@ published: true
 keywords: "mrdev, blog, english, en, initial"
 ---
 
-## Initial post
-
 Hello everyone. This blog is created because I want practice writing in english. 
 
 I'm programmer, trainer, public speaker. My short love is Event Storming and Event Modeling.
