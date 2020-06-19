@@ -13,12 +13,14 @@ So like you good think. I'm an old developer. From 92, when I was writing my fir
 
 Time to time I'm a public speaker and trainer.
 
+
 My last love is **Event Storming** and **Event Modeling**. I was make couple free workshops about these techniques.
+
 
 This drive me to thinks about events and facts. And I think a lot about events :D.
 
 This blog is an effect of my thinking.
 
-![My selfie][mephoto]
+![My selfie][mephoto]{: .center-image }
 
 [mephoto]: /assets/images/author/me.jpg
