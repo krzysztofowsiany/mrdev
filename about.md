@@ -21,6 +21,11 @@ This drive me to thinks about events and facts. And I think a lot about events :
 
 This blog is an effect of my thinking.
 
+That's my selfie XD.
 ![My selfie][mephoto]{: .center-image }
 
+If you want to read more about the blog. I wrote a blog **[manifesto][manifesto]**.
+
 [mephoto]: /assets/images/author/me.jpg
+
+[manifesto]: {{site}/manifesto
