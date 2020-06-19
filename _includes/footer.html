@@ -1,7 +1,9 @@
 <footer class="site-footer">
   <div class="container">
-    <small class="block">&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}</small>
-    <small class="block"><a href="{{site.url}}/privacy-policy">Privacy Policy</a></small>
-    <small class="block"><a href="{{site.url}}/terms-and-conditions">Terms and Conditions</a></small>
+    <small class="block">
+      &copy; {{ site.time | date: '%Y' }} {{ site.author.name }} &nbsp;
+      <a href="{{site.url}}/privacy-policy">Privacy Policy</a>&nbsp;
+      <a href="{{site.url}}/terms-and-conditions">Terms and Conditions</a>
+    </small>
   </div>
 </footer>
