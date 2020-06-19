@@ -19,6 +19,6 @@ This drive me to thinks about events and facts. And I think a lot about events :
 
 This blog is an effect of my thinking.
 
-![My selfie](mephoto)
+![My selfie][mephoto]
 
 [mephoto]: /assets/images/author/me.jpg
