@@ -28,4 +28,4 @@ If you want to read more about the blog. I wrote a blog **[manifesto][manifesto]
 
 [mephoto]: /assets/images/author/me.jpg
 
-[manifesto]: {{site}/manifesto
+[manifesto]: {{site.url}}/manifesto
