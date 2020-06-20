@@ -1,9 +1,16 @@
 <footer class="site-footer">
   <div class="container">
+
+    <small class="block">
+      <a href="{{ '/manifesto' | prepend: site.baseurl | prepend: site.url }}">Manifesto</a>
+      <a href="{{ '/about' | prepend: site.baseurl | prepend: site.url }}">About me</a>
+      <a href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" target="_blank">RSS</a>
+    </small>
+  
     <small class="block">
       &copy; {{ site.time | date: '%Y' }} {{ site.author.name }} &nbsp;
-      <a href="{{site.url}}/privacy-policy">Privacy Policy</a>&nbsp;
-      <a href="{{site.url}}/terms-and-conditions">Terms and Conditions</a>
+      <a href="{{ '/privacy-policy' | prepend: site.baseurl | prepend: site.url }}">Privacy Policy</a>&nbsp;
+      <a href="{{ '/terms-and-conditions' | prepend: site.baseurl | prepend: site.url }}">Terms and Conditions</a>
     </small>
   </div>
 </footer>
