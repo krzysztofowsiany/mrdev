@@ -1,11 +1,14 @@
 <footer class="site-footer">
   <div class="container">
 
-    <small class="block">
+    <div class="block">
+      <a href="{{ '/contact' | prepend: site.baseurl | prepend: site.url }}">Contact</a>
       <a href="{{ '/manifesto' | prepend: site.baseurl | prepend: site.url }}">Manifesto</a>
       <a href="{{ '/about' | prepend: site.baseurl | prepend: site.url }}">About me</a>
       <a href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" target="_blank">RSS</a>
-    </small>
+    </div>
+    
+    <hr>
   
     <small class="block">
       &copy; {{ site.time | date: '%Y' }} {{ site.author.name }} &nbsp;
